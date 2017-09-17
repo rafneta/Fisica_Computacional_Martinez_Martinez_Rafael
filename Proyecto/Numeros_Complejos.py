@@ -17,8 +17,9 @@
 ##    Día 8: lunes    11/septiembre/2017-----2:30 horas ##
 ##    Día 9: jueves    14/septiembre/2017----4:00 horas ##
 ##    Día 10: viernes  15/septiembre/2017----3:30 horas ##
+##    Día 11: sabado  16/septiembre/2017---- 6:00 horas ##
 ##----------------------------------------------------- ##
-##                                   TOTAL: 32:30 horas ##
+##                                   TOTAL: 38:30 horas ##
 ##                                                      ##
 ##########################################################
 
