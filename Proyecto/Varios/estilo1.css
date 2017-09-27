@@ -147,10 +147,10 @@ div.text_cell_render{
 
 .def {	
     border-style:solid;
-    border-width:2px;
+    border-width:4px;
     /*-webkit-border-radius:15px;
 	border-radius: 15px;*/
-    border-color:  #366272;/**#CD853F;/**rgba(112, 156, 169, 0.66);*/
+    border-color:rgba(102,194,163,0.9);/**  #366272;#CD853F;/**rgba(112, 156, 169, 0.66);*/
     /*background: #366272;rgba(54, 98, 114, 0.9);/*#366272;*/
 	/*border-top-left-radius:10%;*/
 	color:black;
@@ -163,19 +163,83 @@ div.text_cell_render{
     margin-left:auto;
     margin-right:auto;
     margin-bottom:2%;
-    margin-top:2%; background:rgba(200,200,200,0.1);
+    margin-top:2%; 
+    background:rgba(102,194,163,0.2);/*rgba(200,200,200,0.1);*/
+}
+
+.visual {	
+    border-style:solid;
+    border-width:4px;
+    /*-webkit-border-radius:15px;
+	border-radius: 15px;*/
+    border-color: rgba(249,140,97,0.9);/*#CD853F ; #366272*#CD853F;/**rgba(112, 156, 169, 0.66);*/
+    /*background: #366272;rgba(54, 98, 114, 0.9);/*#366272;*/
+	/*border-top-left-radius:10%;*/
+	color:black;
+	font-size: 1em;
+	/*box-shadow: 10px 10px 10px #2178a3;*/
+	/*overflow:scroll;*/
+	padding: 2% 4% 2% 4%;
+	box-sizing: border-box;
+	width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:2%;
+    margin-top:2%; 
+    background:rgba(249,140,97,0.2);
 }
 
 
 
+
 .text_cell_render p {
-	font-size: 1.0 em;
+	font-size: 1.0em;
 	line-height: 1.6;
 	font-weight: 300;
 	text-align: justify;
     color: black;
 }
 
+div pre
+{
+    color: red;
+    padding: 0.5em;
+    /*margin-left:1em;
+    margin-top: 1em;*/
+    margin-left:auto;
+    margin-right:auto;
+    }
+
+
+.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2%;
+}
+
+.despolaroid p{
+  text-align: center;
+  padding: 10px 20px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 0.8em;
+	line-height: 1;
+	font-weight: 200;
+
+}
+
+
+ img {
+    /*display: block;
+    margin: auto;*/
+    width: 90%;
+    border-bottom: 4px solid #ddd;
+    padding: 5px;
+}
 
 
 </style>
